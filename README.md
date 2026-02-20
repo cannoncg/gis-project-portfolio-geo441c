@@ -10,4 +10,3 @@ Cassie Cannon
 
 - [First map in ArcGIS Pro](https://github.com/cannoncg/gis-project-portfolio-geo441c/blob/main/GEO441_541_Week1_Cannon_Cassie.ipynb)
 - [Multiple map frames in one map layout](https://github.com/cannoncg/gis-project-portfolio-geo441c/blob/main/Geo441_541_Week2_Cannon_Cassie.ipynb)
-- ## Map Coordinate Basics
