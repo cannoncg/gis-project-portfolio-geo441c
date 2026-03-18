@@ -12,5 +12,5 @@ Cassie Cannon
 - [Multiple map frames in one map layout](https://github.com/cannoncg/gis-project-portfolio-geo441c/blob/main/Geo441_541_Week2_Cannon_Cassie.ipynb)
 
 
-# **Web Mapping**
+## **Web Mapping**
 - [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://arcg.is/1T1uTa2)
