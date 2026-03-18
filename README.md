@@ -13,4 +13,4 @@ Cassie Cannon
 
 
 # **Web Mapping**
-- [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area][(https://miamioh.maps.arcgis.com/apps/instant/compare/index.html?appid=e3a119c08dc847bb867b47cc0a2bfdf3)]
+- [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://arcg.is/1T1uTa2)
