@@ -11,7 +11,7 @@ Cassie Cannon
 - [First map in ArcGIS Pro](Basic-Mapping/GEO441_541_Week1_Cannon_Cassie.ipynb)
 - [Multiple map frames in one map layout](Basic-Mapping/Geo441_541_Week2_Cannon_Cassie.ipynb)
 - [Projecting Geographic Data](Basic-Mapping/Cannon-Cassie-week-03-assignment.ipynb)
-- [Query Spatial Data](Basic-Mapping/Cassie Cannon-week-05-assignment.ipynb)
+- [Query Spatial Data](Basic-Mapping/Cassie-Cannon-week-05-assignment.ipynb)
 
 ## **Web Mapping**
 - [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://arcg.is/1T1uTa2)
