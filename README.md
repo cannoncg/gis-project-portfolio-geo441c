@@ -8,13 +8,14 @@ Cassie Cannon
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/cannoncg/gis-project-portfolio-geo441c/blob/main/GEO441_541_Week1_Cannon_Cassie.ipynb)
-- [Multiple map frames in one map layout](https://github.com/cannoncg/gis-project-portfolio-geo441c/blob/main/Geo441_541_Week2_Cannon_Cassie.ipynb)
-- [Projecting Geographic Data](https://github.com/cannoncg/gis-project-portfolio-geo441c/blob/main/Cannon-Cassie-week-03-assignment.ipynb)
+- [First map in ArcGIS Pro](Basic-Mapping/GEO441_541_Week1_Cannon_Cassie.ipynb)
+- [Multiple map frames in one map layout](Basic-Mapping/Geo441_541_Week2_Cannon_Cassie.ipynb)
+- [Projecting Geographic Data](Basic-Mapping/Cannon-Cassie-week-03-assignment.ipynb)
+- [Query Spatial Data](Basic-Mapping/Cassie Cannon-week-05-assignment.ipynb)
 
 ## **Web Mapping**
 - [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://arcg.is/1T1uTa2)
 
 ## **Raster Data Analysis**
-- [Change in NDVI Thomas Fire](Cassie_Cannon_week_10_raster_analysis_Thomas_fire.ipynb)
-- [Average Slope by Blocks in Santa Barbara](Cassie_Cannon_week_10_raster_analysis_Thomas_fire.ipynb)
+- [Change in NDVI Thomas Fire](raster-data-analysis/Cassie_Cannon_week_10_raster_analysis_Thomas_fire.ipynb)
+- [Average Slope by Blocks in Santa Barbara](raster-data-analysis/Cassie_Cannon_week_10_raster_analysis_Thomas_fire.ipynb)
