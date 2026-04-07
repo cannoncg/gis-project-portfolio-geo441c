@@ -16,5 +16,5 @@ Cassie Cannon
 - [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://arcg.is/1T1uTa2)
 
 ## **Raster Data Analysis**
-- [Change in NDVI Thomas Fire]
-- [Average Slope by Blocks in Santa Barbara]
+- [Change in NDVI Thomas Fire](Cassie_Cannon_week_10_raster_analysis_Thomas_fire.ipynb)
+- [Average Slope by Blocks in Santa Barbara](Cassie_Cannon_week_10_raster_analysis_Thomas_fire.ipynb)
