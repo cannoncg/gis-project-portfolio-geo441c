@@ -4,8 +4,7 @@
 Cassie Cannon
 ## Overview
 - This repository contains Google Colab Notebooks prepared for GEO 441/541 @Miami University
-- Students can build a repository like this as their project portfolio
-
+  
 ## Basic Mapping
 
 - [First map in ArcGIS Pro](Basic-Mapping/GEO441_541_Week1_Cannon_Cassie.ipynb)
