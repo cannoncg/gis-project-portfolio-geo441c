@@ -20,4 +20,4 @@ Cassie Cannon
 - [Average Slope by Blocks in Santa Barbara](raster-data-analysis/Cassie_Cannon_week_10_raster_analysis_Thomas_fire.ipynb)
 
 ## **Vector Data Analysis**
-- [Query Spatial Data](raster-data-analysis/cassie_cannon_week_05_assignment.ipynb)
+- [Query Spatial Data](vector-data-analysis/cassie_cannon_week_05_assignment.ipynb)
