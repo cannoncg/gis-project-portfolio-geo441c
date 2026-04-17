@@ -18,4 +18,6 @@ Cassie Cannon
 ## **Raster Data Analysis**
 - [Change in NDVI Thomas Fire](raster-data-analysis/Cassie_Cannon_week_10_raster_analysis_Thomas_fire.ipynb)
 - [Average Slope by Blocks in Santa Barbara](raster-data-analysis/Cassie_Cannon_week_10_raster_analysis_Thomas_fire.ipynb)
+
+## **Vector Data Analysis**
 - [Query Spatial Data](raster-data-analysis/cassie_cannon_week_05_assignment.ipynb)
