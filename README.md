@@ -22,3 +22,6 @@ Cassie Cannon
 ## **Vector Data Analysis**
 - [Query Spatial Data](vector-data-analysis/cassie_cannon_week_05_assignment.ipynb)
 - [Cholera Death Maps](vector-data-analysis/week_11_assignment_Cassie_Cannon_template.ipynb)
+
+## **Georeferencing Practice**
+- [Georeferencing Report for Historical Oxford Map](Georeferencing Practice/Cassie_Cannongeo441_541c_spring2026_week_04_georeference_activity.ipynb)
