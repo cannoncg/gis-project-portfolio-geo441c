@@ -24,4 +24,4 @@ Cassie Cannon
 - [Cholera Death Maps](vector-data-analysis/week_11_assignment_Cassie_Cannon_template.ipynb)
 
 ## **Georeferencing Practice**
-- [Georeferencing Report for Historical Oxford Map](Georeferencing Practice/Cassie_Cannongeo441_541c_spring2026_week_04_georeference_activity.ipynb)
+- [Georeferencing Report for Historical Oxford Map](Cassie_Cannongeo441_541c_spring2026_week_04_georeference_activity.ipynb)
