@@ -13,7 +13,7 @@ Cassie Cannon
 
 ## **Web Mapping**
 - [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://arcg.is/1T1uTa2)
-- [Yakima River 3D WebScene](https://miamioh.maps.arcgis.com/home/item.html?id=f5c60df1f47242eb9faa3cf93116d4ff))
+- [Yakima River 3D WebScene](https://miamioh.maps.arcgis.com/home/item.html?id=f5c60df1f47242eb9faa3cf93116d4ff)
 
 ## **Raster Data Analysis**
 - [Change in NDVI Thomas Fire](raster-data-analysis/Cassie_Cannon_week_10_raster_analysis_Thomas_fire.ipynb)
