@@ -27,4 +27,4 @@ Cassie Cannon
 - [Georeferencing Report for Historical Oxford Map](Georeferencing_Practice/Cassie_Cannongeo441_541c_spring2026_week_04_georeference_activity.ipynb)
 
 ## **Census Data**
--
+- [Working with Census Data](census_data/week_13_Cannon_Cassie_assignment_template.ipynb)
