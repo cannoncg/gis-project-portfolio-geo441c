@@ -28,3 +28,6 @@ Cassie Cannon
 
 ## **Census Data**
 - [Working with Census Data](census_data/week_13_Cannon_Cassie_assignment_template.ipynb)
+
+## **Final Project**
+- [Artificial Green Space and Urban Cooling in Palm Springs](https://arcg.is/1SzLi43)
